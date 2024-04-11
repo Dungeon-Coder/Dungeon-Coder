@@ -1,6 +1,6 @@
-#Dungeon Coder
+# Dungeon Coder
 
-**Programmer and Data Analyst**
+** Programmer and Data Analyst **
 
 I am Dungeon Coder, a passionate and self taught programmer and data analyst.
 
