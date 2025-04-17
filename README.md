@@ -1,8 +1,8 @@
-# Dungeon Coder
+# Richard Inda
 
 ```Programmer and Data Analyst```
 
-I am Dungeon Coder, a passionate and self taught programmer and data analyst.
+I am Richard Inda, a passionate and self taught programmer and data analyst.
 
 
 # 💻 Tech Stack:
